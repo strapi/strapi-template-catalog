@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_sections_related_products",
+  "info": {
+    "name": "relatedProducts",
+    "icon": "bacon",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "products": {
+      "collection": "product"
+    }
+  }
+}

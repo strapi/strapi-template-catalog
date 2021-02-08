@@ -1,0 +1,476 @@
+{
+  "global": {
+    "siteName": "Strapi Catalog",
+    "defaultSeo": {
+      "metaTitle": "Page",
+      "metaDescription": "A Catalog made with Strapi",
+      "shareImage": null
+    },
+    "favicon": null,
+    "placeHolder": null
+  },
+  "categories": [
+    {
+      "name": "Keys",
+      "slug": "keys",
+      "image": null
+    },
+    {
+      "name": "Guitars",
+      "slug": "guitars",
+      "image": null
+    },
+    {
+      "name": "Strings",
+      "slug": "strings",
+      "image": null
+    },
+    {
+      "name": "Percussion",
+      "slug": "percussion",
+      "image": null
+    }
+  ],
+
+  "products": [
+    {
+      "title": "Steinway Grand C-227",
+      "slug": "steinway-grand-c-227",
+      "price": 500000,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 1
+      },
+      "image": null,
+      "productDescription": "I'm baby retro literally letterpress VHS, truffaut kombucha knausgaard man braid live-edge. Air plant succulents hella pinterest, bespoke you probably haven't heard of them ramps schlitz man braid live-edge sartorial venmo neutra. Hella four loko sustainable you probably haven't heard of them artisan cred lumbersexual snackwave. Celiac yuccie pok pok 8-bit cliche, af whatever ugh health goth leggings brunch poke.\n\nVenmo semiotics coloring book VHS pok pok, glossier swag pork belly marfa ethical messenger bag. Four dollar toast artisan pug bushwick tbh, ethical slow-carb wayfarers williamsburg echo park woke knausgaard trust fund franzen locavore. Squid cornhole ugh trust fund, four dollar toast taiyaki poke yr ethical beard. Paleo skateboard lumbersexual master cleanse YOLO. Offal messenger bag adaptogen aesthetic. Swag scenester pour-over beard, hammock skateboard snackwave woke vaporware man braid unicorn mlkshk 90's thundercats 8-bit. Gastropub poke pork belly direct trade, photo booth celiac tattooed dreamcatcher taxidermy cred tilde.",
+      "relatedProducts": {
+        "__component": "sections.related-products",
+        "products": [
+          {
+            "id": 2
+          },
+          {
+            "id": 3
+          }
+        ]
+      },
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Brand",
+          "value": "Steinway"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Grand"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Colors",
+          "value": "Black, White"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Dimensions",
+          "value": "Really big"
+        }
+      ]
+    },
+    {
+      "title": "Steinway Upright K-132",
+      "slug": "steinway-upright-k-132",
+      "price": 300000,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 1
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": {
+        "__component": "sections.related-products",
+        "products": [
+          {
+            "id": 1
+          },
+          {
+            "id": 3
+          }
+        ]
+      },
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Brand",
+          "value": "Steinway"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Upright"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Colors",
+          "value": "Black, White"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Dimensions",
+          "value": "Not too big"
+        }
+      ]
+    },
+    {
+      "title": "Yamaha Grand Piano",
+      "slug": "yamaha-grand-piano",
+      "price": 250000,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 1
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": {
+        "__component": "sections.related-products",
+        "products": [
+          {
+            "id": 1
+          },
+          {
+            "id": 2
+          }
+        ]
+      },
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Brand",
+          "value": "Yamaha"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Grand"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Colors",
+          "value": "Black, White"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Dimensions",
+          "value": "Pretty big"
+        }
+      ]
+    },
+    {
+      "title": "Cordoba Classical Guitar",
+      "slug": "cordoba-classical-guitar",
+      "price": 1000,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 2
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": {
+        "__component": "sections.related-products",
+        "products": [
+          {
+            "id": 6
+          }
+        ]
+      },
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Brand",
+          "value": "Cordoba"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Classical"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Strings",
+          "value": "Nylon"
+        }
+      ]
+    },
+    {
+      "title": "Martin Acoustic Guitar",
+      "slug": "martin-acoustic-guitar",
+      "price": 800,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 2
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Brand",
+          "value": "Cordoba"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Acoustic"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Strings",
+          "value": "Steel"
+        }
+      ]
+    },
+    {
+      "title": "Yamaha Classical Guitar",
+      "slug": "yamaha-classical-guitar",
+      "price": 500,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 2
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": {
+        "__component": "sections.related-products",
+        "products": [
+          {
+            "id": 4
+          }
+        ]
+      },
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Brand",
+          "value": "Yamaha"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Classical"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Strings",
+          "value": "Nylon"
+        }
+      ]
+    },
+    {
+      "title": "Fender Stratocaster",
+      "slug": "fender-stratocaster",
+      "price": 900,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 2
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Brand",
+          "value": "Fender"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Electric"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Strings",
+          "value": "Steel"
+        }
+      ]
+    },
+    {
+      "title": "Stradivarius Violin",
+      "slug": "stradivarius-violin",
+      "price": 100000,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 3
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Maker",
+          "value": "Stradivarius"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Year",
+          "value": "1750"
+        }
+      ]
+    },
+    {
+      "title": "6 Piece Drum Kit",
+      "slug": "6-piece-drum-kit",
+      "price": 1000,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 4
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": {
+        "__component": "sections.related-products",
+        "products": [
+          {
+            "id": 11
+          },
+          {
+            "id": 12
+          }
+        ]
+      },
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Colors",
+          "value": "Black, White"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Acoustic"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Symbols Included",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "title": "4 Piece Drum Kit",
+      "slug": "4-piece-drum-kit",
+      "price": 1000,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 4
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": {
+        "__component": "sections.related-products",
+        "products": [
+          {
+            "id": 10
+          },
+          {
+            "id": 12
+          }
+        ]
+      },
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Colors",
+          "value": "Black, White"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Acoustic"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Symbols Included",
+          "value": "Yes"
+        }
+      ]
+    },
+    {
+      "title": "Roland Electric Drum Kit",
+      "slug": "roland-electric-drum-kit",
+      "price": 800,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 4
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": {
+        "__component": "sections.related-products",
+        "products": [
+          {
+            "id": 10
+          },
+          {
+            "id": 11
+          }
+        ]
+      },
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Color",
+          "value": "White"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Electric"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Symbols Included",
+          "value": "No"
+        }
+      ]
+    },
+    {
+      "title": "Electric Drum Kit",
+      "slug": "electric-drum-kit",
+      "price": 900,
+      "dealerUrl": "https://eu.steinway.com/en/",
+      "category": {
+        "id": 4
+      },
+      "image": null,
+      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": {
+        "__component": "sections.related-products",
+        "products": [
+          {
+            "id": 11
+          },
+          {
+            "id": 12
+          }
+        ]
+      },
+      "specifications": [
+        {
+          "__component": "sections.specifications",
+          "key": "Color",
+          "value": "Black"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Type",
+          "value": "Electric"
+        },
+        {
+          "__component": "sections.specifications",
+          "key": "Symbols Included",
+          "value": "No"
+        }
+      ]
+    }
+  ]
+}

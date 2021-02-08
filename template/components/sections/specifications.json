@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_sections_specifications",
+  "info": {
+    "name": "specifications",
+    "icon": "archway",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "key": {
+      "type": "string"
+    },
+    "value": {
+      "type": "string"
+    }
+  }
+}
