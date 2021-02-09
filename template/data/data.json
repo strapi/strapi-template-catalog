@@ -37,7 +37,7 @@
       "title": "Steinway Grand C-227",
       "slug": "steinway-grand-c-227",
       "price": 500000,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 1
       },
@@ -81,7 +81,7 @@
       "title": "Steinway Upright K-132",
       "slug": "steinway-upright-k-132",
       "price": 300000,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 1
       },
@@ -125,7 +125,7 @@
       "title": "Yamaha Grand Piano",
       "slug": "yamaha-grand-piano",
       "price": 250000,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 1
       },
@@ -169,7 +169,7 @@
       "title": "Cordoba Classical Guitar",
       "slug": "cordoba-classical-guitar",
       "price": 1000,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 2
       },
@@ -205,7 +205,7 @@
       "title": "Martin Acoustic Guitar",
       "slug": "martin-acoustic-guitar",
       "price": 800,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 2
       },
@@ -233,7 +233,7 @@
       "title": "Yamaha Classical Guitar",
       "slug": "yamaha-classical-guitar",
       "price": 500,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 2
       },
@@ -269,7 +269,7 @@
       "title": "Fender Stratocaster",
       "slug": "fender-stratocaster",
       "price": 900,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 2
       },
@@ -297,7 +297,7 @@
       "title": "Stradivarius Violin",
       "slug": "stradivarius-violin",
       "price": 100000,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 3
       },
@@ -320,7 +320,7 @@
       "title": "6 Piece Drum Kit",
       "slug": "6-piece-drum-kit",
       "price": 1000,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 4
       },
@@ -359,7 +359,7 @@
       "title": "4 Piece Drum Kit",
       "slug": "4-piece-drum-kit",
       "price": 1000,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 4
       },
@@ -398,7 +398,7 @@
       "title": "Roland Electric Drum Kit",
       "slug": "roland-electric-drum-kit",
       "price": 800,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 4
       },
@@ -437,7 +437,7 @@
       "title": "Electric Drum Kit",
       "slug": "electric-drum-kit",
       "price": 900,
-      "dealerUrl": "https://eu.steinway.com/en/",
+      "dealerUrl": "https://strapi.io/",
       "category": {
         "id": 4
       },
