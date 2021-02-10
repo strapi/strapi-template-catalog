@@ -35,11 +35,6 @@
     "productDescription": {
       "type": "richtext"
     },
-    "relatedProducts": {
-      "type": "component",
-      "repeatable": false,
-      "component": "sections.related-products"
-    },
     "specifications": {
       "type": "component",
       "repeatable": true,
@@ -50,6 +45,9 @@
     },
     "dealerUrl": {
       "type": "string"
+    },
+    "relatedProducts": {
+      "collection": "product"
     }
   }
 }
