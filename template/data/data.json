@@ -31,7 +31,6 @@
       "image": null
     }
   ],
-
   "products": [
     {
       "title": "Steinway Grand C-227",
@@ -42,18 +41,15 @@
         "id": 1
       },
       "image": null,
-      "productDescription": "I'm baby retro literally letterpress VHS, truffaut kombucha knausgaard man braid live-edge. Air plant succulents hella pinterest, bespoke you probably haven't heard of them ramps schlitz man braid live-edge sartorial venmo neutra. Hella four loko sustainable you probably haven't heard of them artisan cred lumbersexual snackwave. Celiac yuccie pok pok 8-bit cliche, af whatever ugh health goth leggings brunch poke.\n\nVenmo semiotics coloring book VHS pok pok, glossier swag pork belly marfa ethical messenger bag. Four dollar toast artisan pug bushwick tbh, ethical slow-carb wayfarers williamsburg echo park woke knausgaard trust fund franzen locavore. Squid cornhole ugh trust fund, four dollar toast taiyaki poke yr ethical beard. Paleo skateboard lumbersexual master cleanse YOLO. Offal messenger bag adaptogen aesthetic. Swag scenester pour-over beard, hammock skateboard snackwave woke vaporware man braid unicorn mlkshk 90's thundercats 8-bit. Gastropub poke pork belly direct trade, photo booth celiac tattooed dreamcatcher taxidermy cred tilde.",
-      "relatedProducts": {
-        "__component": "sections.related-products",
-        "products": [
-          {
-            "id": 2
-          },
-          {
-            "id": 3
-          }
-        ]
-      },
+      "description": "I'm baby retro literally letterpress VHS, truffaut kombucha knausgaard man braid live-edge. Air plant succulents hella pinterest, bespoke you probably haven't heard of them ramps schlitz man braid live-edge sartorial venmo neutra. Hella four loko sustainable you probably haven't heard of them artisan cred lumbersexual snackwave. Celiac yuccie pok pok 8-bit cliche, af whatever ugh health goth leggings brunch poke.\n\nVenmo semiotics coloring book VHS pok pok, glossier swag pork belly marfa ethical messenger bag. Four dollar toast artisan pug bushwick tbh, ethical slow-carb wayfarers williamsburg echo park woke knausgaard trust fund franzen locavore. Squid cornhole ugh trust fund, four dollar toast taiyaki poke yr ethical beard. Paleo skateboard lumbersexual master cleanse YOLO. Offal messenger bag adaptogen aesthetic. Swag scenester pour-over beard, hammock skateboard snackwave woke vaporware man braid unicorn mlkshk 90's thundercats 8-bit. Gastropub poke pork belly direct trade, photo booth celiac tattooed dreamcatcher taxidermy cred tilde.",
+      "relatedProducts": [
+        {
+          "id": 2
+        },
+        {
+          "id": 3
+        }
+      ],
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -86,18 +82,15 @@
         "id": 1
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
-      "relatedProducts": {
-        "__component": "sections.related-products",
-        "products": [
-          {
-            "id": 1
-          },
-          {
-            "id": 3
-          }
-        ]
-      },
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": [
+        {
+          "id": 1
+        },
+        {
+          "id": 3
+        }
+      ],
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -130,18 +123,15 @@
         "id": 1
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
-      "relatedProducts": {
-        "__component": "sections.related-products",
-        "products": [
-          {
-            "id": 1
-          },
-          {
-            "id": 2
-          }
-        ]
-      },
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": [
+        {
+          "id": 1
+        },
+        {
+          "id": 2
+        }
+      ],
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -174,15 +164,12 @@
         "id": 2
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
-      "relatedProducts": {
-        "__component": "sections.related-products",
-        "products": [
-          {
-            "id": 6
-          }
-        ]
-      },
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": [
+        {
+          "id": 6
+        }
+      ],
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -210,7 +197,7 @@
         "id": 2
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -238,15 +225,12 @@
         "id": 2
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
-      "relatedProducts": {
-        "__component": "sections.related-products",
-        "products": [
-          {
-            "id": 4
-          }
-        ]
-      },
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": [
+        {
+          "id": 4
+        }
+      ],
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -274,7 +258,7 @@
         "id": 2
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -302,7 +286,7 @@
         "id": 3
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -325,18 +309,15 @@
         "id": 4
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
-      "relatedProducts": {
-        "__component": "sections.related-products",
-        "products": [
-          {
-            "id": 11
-          },
-          {
-            "id": 12
-          }
-        ]
-      },
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": [
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        }
+      ],
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -364,18 +345,15 @@
         "id": 4
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
-      "relatedProducts": {
-        "__component": "sections.related-products",
-        "products": [
-          {
-            "id": 10
-          },
-          {
-            "id": 12
-          }
-        ]
-      },
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": [
+        {
+          "id": 10
+        },
+        {
+          "id": 12
+        }
+      ],
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -403,18 +381,15 @@
         "id": 4
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
-      "relatedProducts": {
-        "__component": "sections.related-products",
-        "products": [
-          {
-            "id": 10
-          },
-          {
-            "id": 11
-          }
-        ]
-      },
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": [
+        {
+          "id": 10
+        },
+        {
+          "id": 11
+        }
+      ],
       "specifications": [
         {
           "__component": "sections.specifications",
@@ -442,18 +417,15 @@
         "id": 4
       },
       "image": null,
-      "productDescription": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
-      "relatedProducts": {
-        "__component": "sections.related-products",
-        "products": [
-          {
-            "id": 11
-          },
-          {
-            "id": 12
-          }
-        ]
-      },
+      "description": "I'm baby live-edge prism retro gastropub kale chips vinyl plaid keffiyeh kinfolk. Cray photo booth vexillologist vinyl actually DIY. Ramps polaroid ennui everyday carry williamsburg venmo thundercats 8-bit organic retro pitchfork roof party PBR&B synth typewriter. Typewriter hoodie 3 wolf moon, yuccie hexagon umami vice gochujang tumblr aesthetic cold-pressed fam.\n\nKeffiyeh quinoa distillery, affogato yuccie iPhone brooklyn coloring book dreamcatcher roof party pinterest freegan. Succulents YOLO narwhal, unicorn mustache street art hella cray pabst meditation kitsch shaman. Quinoa slow-carb tote bag four dollar toast. Iceland flexitarian wayfarers sartorial skateboard, narwhal post-ironic subway tile. Whatever VHS scenester unicorn cornhole, messenger bag helvetica tumblr. Before they sold out yr photo booth coloring book chia. Wolf lyft butcher hoodie godard fingerstache irony gentrify migas squid next level salvia live-edge bushwick banjo.",
+      "relatedProducts": [
+        {
+          "id": 11
+        },
+        {
+          "id": 12
+        }
+      ],
       "specifications": [
         {
           "__component": "sections.specifications",

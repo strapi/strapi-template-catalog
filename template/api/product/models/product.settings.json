@@ -32,13 +32,8 @@
       "plugin": "upload",
       "required": false
     },
-    "productDescription": {
+    "description": {
       "type": "richtext"
-    },
-    "relatedProducts": {
-      "type": "component",
-      "repeatable": false,
-      "component": "sections.related-products"
     },
     "specifications": {
       "type": "component",
@@ -50,6 +45,9 @@
     },
     "dealerUrl": {
       "type": "string"
+    },
+    "relatedProducts": {
+      "collection": "product"
     }
   }
 }
