@@ -32,7 +32,7 @@
       "plugin": "upload",
       "required": false
     },
-    "productDescription": {
+    "description": {
       "type": "richtext"
     },
     "specifications": {
