@@ -1,6 +1,6 @@
 # Strapi Template Catalog
 
-A Strapi template to create Strapi projects pre-configured for blog apps.
+A Strapi template to create Strapi projects pre-configured for catalog apps.
 
 ## Usage
 
