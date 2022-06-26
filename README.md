@@ -1,3 +1,9 @@
+**:no_entry: Deprecated**
+
+This repository is no longer maintained and only works for Strapi v3. To find the newest Strapi v4 templates, check out the [starters-and-templates monorepo](https://github.com/strapi/starters-and-templates/).
+
+---
+
 # Strapi Template Catalog
 
 A Strapi template to create Strapi projects pre-configured for catalog apps.
@@ -5,11 +11,7 @@ A Strapi template to create Strapi projects pre-configured for catalog apps.
 ## Usage
 
 ```bash
-# Using Yarn
-yarn create strapi-app my-app-name --template https://github.com/strapi/strapi-template-catalog
-
-# Or using NPM
-npx create-strapi-app my-app-name --template https://github.com/strapi/strapi-template-catalog
+npx create-strapi-app@3 my-app-name --template https://github.com/strapi/strapi-template-catalog
 ```
 
 ## Starters
