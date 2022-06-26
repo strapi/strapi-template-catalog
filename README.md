@@ -6,7 +6,7 @@ This repository is no longer maintained and only works for Strapi v3. To find th
 
 # Strapi Template Catalog
 
-A Strapi template to create Strapi projects pre-configured for blog apps.
+A Strapi template to create Strapi projects pre-configured for catalog apps.
 
 ## Usage
 
